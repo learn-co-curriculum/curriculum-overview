@@ -12,7 +12,7 @@ The course material assumes that you have experience with high school algebra. I
 
 If you have any questions or concerns about these three skills, please drop us a line at datascience@flatironschool.com so we can make sure to work with you when the course starts to share additional resources that will help you to fill any gaps.
 
-## The Data Science Curriculum V2.1
+# The Data Science Curriculum V2.1
 
 #### Module 1: Introduction to Data with Python and SQL 
 Our first module introduces the fundamentals of Python for data science. You’ll learn basic Python programming, how to use Jupyter Notebooks, and will be familiarized with popular Python libraries that are used in data science, such as Pandas and NumPy. Additionally, you’ll learn how to use Git and Github as a collaborative version control tool. To organize your data, you’ll learn about data structures, relational databases, ways to retrieve data, and the fundamentals of SQL for data querying for structured databases. Furthermore, you’ll learn how to access data from various sources using APls, as well as perform Web Scraping.
