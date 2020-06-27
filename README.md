@@ -47,6 +47,4 @@ Our Curriculum team asks for your input on each lesson or lab in two ways:
 Differentiated from a lesson feedback or curricular errors, there may inevitably be “bugs” that exist in the Learn environment. If you’ve completed a quiz or a lab, and for some reason you can’t move on to the next lab, please submit a bug report to bugs@learn.co. This is another key skill of a data scientist - being able to articulate and document your findings.
 
 ## Help.learn.co 
-A collection of help articles, with advice and answers to frequently asked questions from the Flatiron School Team: help.learn.co
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/curriculum-overview'>Curriculum Overview</a> on Learn.co and start learning to code for free.</p>
+A collection of help articles, with advice and answers to frequently asked questions from the Flatiron School Team: [help.learn.co](https://help.learn.co/en/)
